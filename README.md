@@ -68,7 +68,7 @@ dt.describe()
 
 
 
-<img width="512" height="96" alt="image" src="https://github.com/user-attachments/assets/556f9588-3051-4e6d-bbc3-23dfe712d6e3" />
+<img width="441" height="95" alt="image" src="https://github.com/user-attachments/assets/cd3fcffe-c382-452b-82c2-a84141610339" />
 
 
 
@@ -110,8 +110,7 @@ per
 
 
 
-<img width="1058" height="355" alt="image" src="https://github.com/user-attachments/assets/a65efb2e-6403-4b29-abfa-08025edb58b0" />
-
+<img width="441" height="95" alt="image" src="https://github.com/user-attachments/assets/682550f3-0a2d-4221-9244-23fe0a9323fe" />
 
 
 
